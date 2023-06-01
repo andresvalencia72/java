@@ -30,6 +30,8 @@ public class Caracteres {
         System.out.println(nuevaLinea);
         System.out.println(retornoCarro);
         // System.getProperty("line.separator") según el sistema operativo
+        //System.lineSeparator 
+
 
     }
 }
