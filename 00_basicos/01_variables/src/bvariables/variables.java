@@ -1,6 +1,5 @@
 package bvariables;
 
-import javax.sound.sampled.AudioFileFormat.Type;
 
 public class variables {
 
